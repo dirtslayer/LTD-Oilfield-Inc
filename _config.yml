@@ -1,6 +1,6 @@
 # Site settings
 email: info@ltdoil.com
-baseurl: "http://designr8.com/LTD-Oilfield-Inc/"
+baseurl: "http://designr8.com/LTD-Oilfield-Inc"
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
@@ -8,7 +8,7 @@ google_analytics:
 # SEO settings
 title: LTD Oilfield Services Inc
 description: LTD Oilfield Services Inc -  Oilfield construction and maintainance contractor in Redwater, AB.
-url: "http://designr8.com/LTD-Oilfield-Inc/"
+url: "http://designr8.com/LTD-Oilfield-Inc"
 # twitter_username: 
 default_img: https://lh3.googleusercontent.com/Scy70QeMqjEY_PnQVy4hziBBfJFJ7G1zOUcQCLXA4TU9bHqRPMt6iqJSQpRjbep3QwNKCUwfgA3ZzfjK4dfEalTqbgRIpU2q6XEVFRZ4K8-tp334yOfkPbJKXAUflJhQtvG2vTnJMjRUv4FWiLyqFLG2seLyvYH5QKwm8yRjGcAIHNnRSiCtZJnqX9fuEek1euadr3aLu9Ib417sTw5k_VkVYN_v0UpbLA_Y4PeNgHFU6bI5aK_w5xZCnHo5ZzAcvh5h841h6f-7ZGgeykGQdcI5UpFqGSnK1b5Vco_DLKzDjgRVaN8_Bdrka6fEH5yKV-8dPq6pTLQFF4IydAg5BwOMzMLPVO20Q5mrZ41aqLGQeNzP3nq4LhhkLEr6UsXVvfakC935CfEnU7BHVSlD7a2dP-QFB6S8A4KlHuGIJA58vOzNvUFjidhY-DCgxAbPn6e5Pp5fp_0jeGxGqkGih0FKilAONJ1mnoeTpUIY__256NFkRV_ciSr57FI_zGV0iXiGqURU9wdT9GsZJLQzv116kgoduu_NxqlohP9HkAPevKleiS_xTgtABg7Bx_oaX-u-Sc-EPnQeaR3q6TCA6jau-7BvP8GF7ZhAy9_5K3PZ2ls0xJQnANQ4bvQW6mhlzR4OWPsPS8oQAZjItTymqxyJf1r9KMSRft8hfuYJ=w363-h170-no
 
