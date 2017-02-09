@@ -22,6 +22,10 @@ phone: 780-942-4484
 ~~~
 
 ~~~
+email: info@ltdoil.com
+~~~
+
+~~~
 street:
 4406-44 street
 Redwater, AB
