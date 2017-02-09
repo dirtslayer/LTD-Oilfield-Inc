@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About Us"
+title: "Contact Us"
 date: 2017-02-09
 categories:
   - About
