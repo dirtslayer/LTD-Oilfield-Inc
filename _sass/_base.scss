@@ -104,7 +104,13 @@ img {
 ol, ul {
   margin: 0;
   padding: 0;
-  margin-left: 2em;
+
+  list-style-type: none;
+}
+
+.plainlist {
+    margin-left: 2em;
+    list-style-type: circle;
 }
 
 /**
