@@ -1,5 +1,5 @@
-# LTD Oilfield Inc Website
-LTD Oilfield Inc website. Currently parked at:
+# LTD Oilfield Services Inc Website
+LTD Oilfield Services Inc website. Currently parked at:
 [parked link](http://designr8.com/LTD-Oilfield-Inc/)
 
 
