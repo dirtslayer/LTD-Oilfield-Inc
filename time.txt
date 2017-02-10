@@ -1,0 +1,8 @@
+LTD Website tracker
+
+feb 9,
+3 hours
+4 articles: about, contact, safety, services
+each article has a lg and sm picture
+created 3 categories, about, safety, services
+
